@@ -24,3 +24,6 @@ pip3 install -U -r requirements.txt
 
 #Install Optional Requirements
 pip3 install -U -r re*/st*/optional-requirements.txt
+
+#Copy Env Config File
+cp .env.sample .env
