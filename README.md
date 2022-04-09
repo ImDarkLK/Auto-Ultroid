@@ -1,6 +1,11 @@
 # Auto-Ultroid
 > Auto-Script For Ultroid Userbot Deployment 🖤
 
+<p align="center">
+  <img src="./Dark/ULTROID.png" alt="TeamUltroid Logo">
+</p>
+<h1 align="center">
+
 ## Heroku Installation 
 
 * ``` You Can Easily Deploy Ultroid Without Any Violation Issue ``` 
