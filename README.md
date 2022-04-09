@@ -5,7 +5,7 @@
 
 * ``` You Can Easily Deploy Ultroid Without Any Violation Issue ``` 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
 ## Local Installation 
 
@@ -36,10 +36,14 @@ Method 2 : ``` bash startup ``` <br>
 
 * [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#Necessary-Variables) ~ Necessary Variables <br>
 * [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#documentation) ~ Documentation <br>
+* [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#tutorial) ~ Tutorials
+* [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#deploy-locally) ~ Deployment Methods <br>
+* [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#license) ~ License
+
 
 ## Full Credits
 
-* [Ultroid](https://github.com/TeamUltroid/Ultroid) Userbot Repo
+* [Ultroid](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#credits) Userbot
 * [Dark](https://github.com/ImDarkLK) Nothing
 
 ## Enjoy !!!
