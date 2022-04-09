@@ -24,6 +24,10 @@ Method 1 : ``` python3 -m pyUltroid ``` <br>
 Method 2 : ``` bash startup ``` <br>
 (You Can Use <b> Any Method </b> To Start)
 
+## String Session 
+
+* Generate Via Terminal <br> ``` bash resources/session/session.sh ``` 
+
 ## Full Credits
 
 * [Ultroid](https://github.com/TeamUltroid/Ultroid) Userbot Repo
