@@ -32,9 +32,10 @@ Method 2 : ``` bash startup ``` <br>
 
 <b> © Copyrights @ TeamUltroid </b>
 
-## Necessary Variables 
+## README Redirect
 
-* [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#Necessary-Variables) For Necessary Variables
+* [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#Necessary-Variables) ~ Necessary Variables <br>
+* [Click Here](https://github.com/TeamUltroid/Ultroid/blob/main/README.md#documentation) ~ Documentation <br>
 
 ## Full Credits
 
