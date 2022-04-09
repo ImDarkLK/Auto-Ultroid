@@ -27,6 +27,10 @@ Method 2 : ``` bash startup ``` <br>
 ## String Session 
 
 * Generate Via Terminal <br> ``` bash resources/session/session.sh ``` 
+* Generate Via Replit <br> [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* Generate Via Telegram Bot <br> [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
+
+<b> © Copyrights @ TeamUltroid </b>
 
 ## Full Credits
 
