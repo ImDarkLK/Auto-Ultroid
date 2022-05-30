@@ -15,7 +15,7 @@
 ## Local Installation 
 
 ```
-wget https://raw.githubusercontent.com/ImDarkLK/Auto-Ultroid/main/Ultroid.sh -O && bash ./Ultroid.sh
+wget https://raw.githubusercontent.com/ImDarkLK/Auto-Ultroid/main/Ultroid.sh && bash ./Ultroid.sh
 ``` 
 
 * Edit Config ``` nano .env ``` <br>
